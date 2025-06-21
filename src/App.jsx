@@ -56,7 +56,7 @@ function App() {
           height: '100%',
           objectFit: 'cover',
           filter: 'blur(8px)',
-          transform: 'scale(1.05)' // ✅ comment OK now
+          transform: 'scale(1.05)' 
         }}
       />
     </div>
